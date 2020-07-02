@@ -7,7 +7,7 @@ import requests
 wordsDB = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="P@sta3ters",
+    passwd="#########",
     database="hangmanDB"
 )
 
